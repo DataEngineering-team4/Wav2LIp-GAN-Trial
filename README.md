@@ -8,7 +8,7 @@
 
 3. Wav2lip 폴더에는 사전 학습된 weight 파일인 'wav2lip_gan.pth' 을 넣어주었습니다. 
 
-  - weight 파일은 아래 본문에 있는 Link를 통해 받을 수 있습니다. 
+  - weight 파일은 아래 본문 Readme 에 있는 Link를 통해 받을 수 있습니다. 
   
   ![image](https://user-images.githubusercontent.com/67546438/227890015-a014e75f-a0da-400e-a3d5-e82bccb46ca6.png)
   
